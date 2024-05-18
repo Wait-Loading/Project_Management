@@ -51,7 +51,6 @@ Project_Management/
 ├── package-lock.json
 ├── package.json
 └── ...
-```
 
 ## Getting Started
 
@@ -133,6 +132,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or issues, please contact JP693854 at jp693854@example.com.
 
-```
+
 
 You can customize the email address and any other details as necessary. This README file will help users understand your project better and provide clear instructions for setting it up and contributing.
